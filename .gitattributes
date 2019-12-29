@@ -1,0 +1,2 @@
+wordVectors.npy filter=lfs diff=lfs merge=lfs -text
+models.tar.xz filter=lfs diff=lfs merge=lfs -text

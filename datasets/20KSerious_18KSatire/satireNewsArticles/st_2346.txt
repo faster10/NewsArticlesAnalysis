@@ -1,0 +1,1 @@
+" It ' s not that hard to learn , " Turlock said . " A lot of the keys are pretty much the same . In Explorer , if you hit Command N , you ' re going to get a new browser window . In Word or Excel , you ' re going to get a new document , in Outlook Express a new message . In OS , it ' ll be a new folder . See ? Easy . Saves a lot of time . Command N . "

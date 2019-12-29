@@ -1,0 +1,2 @@
+LOVE BUG “WORM”; HACKERS “TWITS”
+The International Society of Computer Hackers blasted the media yesterday for continually using the word ‘virus’ when referring to the “Love Bug” email that recently infected computers. The program was more accurately a ‘worm,’ not a virus, said the hacker group, adding that “ignorant journalists” should check their facts. In response, the Society of Professional Journalists thanked the hackers, who it said will now be referred to by the more accurate term “slovenly misanthropic twits.”

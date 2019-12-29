@@ -1,0 +1,2 @@
+WINDOWS NOT A VIRUS
+Symantec issued an apology to Microsoft yesterday after the security software maker’s AntiVirus Research Center issued an alert for a “widespread and lethal virus known to cause system crashes and data loss” that turned out to be the Windows 2000 operating system. Symantec CEO John Thompson called it a “regrettable but understandable” mistake.
