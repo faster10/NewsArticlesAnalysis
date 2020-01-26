@@ -90,5 +90,10 @@ else:
 print("\n")
 
 
-
-
+from os import listdir
+from os.path import isfile, join
+path_ser = "/home/saad/NewsArticlesAnalysis/SeriousArticlesTest"
+path_sat = "/home/saad/NewsArticlesAnalysis/SatireArticlesTest"
+onlyfiles_ser = [f for f in listdir(path_ser) if isfile(join(path_ser, f))]
+for f in onlyfiles_ser:
+	print(f)
